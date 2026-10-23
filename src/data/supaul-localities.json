@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Supaul",
+    "latitude": 26.126,
+    "longitude": 86.605,
+    "osmType": "coordinate-reference",
+    "osmId": null,
+    "displayName": "Supaul municipality, Supaul district, Bihar"
+  },
+  {
+    "name": "Birpur",
+    "latitude": 26.5151843,
+    "longitude": 87.0084605,
+    "osmType": "node",
+    "osmId": 1437729453,
+    "displayName": "Birpur, Basantpur, Supaul, Bihar, India"
+  },
+  {
+    "name": "Nirmali",
+    "latitude": 26.3070921,
+    "longitude": 86.5738696,
+    "osmType": "node",
+    "osmId": 7095561508,
+    "displayName": "Nirmali, Supaul, Bihar, India"
+  },
+  {
+    "name": "Triveniganj",
+    "latitude": 26.1270382,
+    "longitude": 86.8872792,
+    "osmType": "node",
+    "osmId": 245744268,
+    "displayName": "Tribeniganj, Supaul, Bihar, 852139, India"
+  },
+  {
+    "name": "Raghopur",
+    "latitude": 26.2979997,
+    "longitude": 86.8359681,
+    "osmType": "node",
+    "osmId": 245746440,
+    "displayName": "Raghopur, Supaul, Bihar, 852111, India"
+  },
+  {
+    "name": "Kishanpur",
+    "latitude": 26.212938,
+    "longitude": 86.6808402,
+    "osmType": "node",
+    "osmId": 245745111,
+    "displayName": "Kishanpur, Supaul, Bihar, India"
+  },
+  {
+    "name": "Basantpur",
+    "latitude": 26.4719652,
+    "longitude": 86.9763441,
+    "osmType": "relation",
+    "osmId": 10290969,
+    "displayName": "Basantpur, Supaul, Bihar, 854340, India"
+  },
+  {
+    "name": "Chhatapur",
+    "latitude": 26.2172122,
+    "longitude": 87.0045035,
+    "osmType": "node",
+    "osmId": 1773497891,
+    "displayName": "Chhatapur, Supaul, Bihar, India"
+  },
+  {
+    "name": "Pratapganj",
+    "latitude": 26.2976472,
+    "longitude": 86.9613147,
+    "osmType": "node",
+    "osmId": 7119661590,
+    "displayName": "Pratapganj, Supaul, Bihar, 852125, India"
+  },
+  {
+    "name": "Saraigarh Bhaptiyahi",
+    "latitude": 26.3229602,
+    "longitude": 86.7571946,
+    "osmType": "relation",
+    "osmId": 10290965,
+    "displayName": "Saraigarh Bhaptiyahi, Supaul, Bihar, India"
+  },
+  {
+    "name": "Pipra",
+    "latitude": 26.1579207,
+    "longitude": 86.7973505,
+    "osmType": "node",
+    "osmId": 1773537440,
+    "displayName": "Pipra, Supaul, Bihar, 852218, India"
+  },
+  {
+    "name": "Marauna",
+    "latitude": 26.1735414,
+    "longitude": 86.4263534,
+    "osmType": "node",
+    "osmId": 6970167215,
+    "displayName": "Marauna, Supaul, Bihar, India"
+  }
+]

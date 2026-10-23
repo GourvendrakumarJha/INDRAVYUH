@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Supaul College of Engineering",
+    "shortName": "Engineering College",
+    "category": "Education",
+    "latitude": 26.1080847,
+    "longitude": 86.6033095,
+    "osmType": "directory-coordinate-reference",
+    "osmId": null,
+    "displayName": "Beena Road, Ward No. 24, Supaul, Bihar 852131",
+    "source": "https://www.justdial.com/Supaul/Supaul-College-Of-Engineering-Ward-No-24-Bina/9999P6473-6473-171204150828-T3C7_BZDET"
+  },
+  {
+    "name": "Sadar Hospital, Supaul",
+    "shortName": "Sadar Hospital",
+    "category": "Health",
+    "latitude": 26.1143723,
+    "longitude": 86.5964055,
+    "osmType": "node",
+    "osmId": 7131577420,
+    "displayName": "Sadar Hospital, Supaul, SH66, Supaul, Bihar, India",
+    "source": "https://www.openstreetmap.org/node/7131577420"
+  },
+  {
+    "name": "Supaul Railway Station",
+    "shortName": "Supaul Station",
+    "category": "Transport",
+    "latitude": 26.1175868,
+    "longitude": 86.6028664,
+    "osmType": "node",
+    "osmId": 1772769366,
+    "displayName": "Supaul railway station, Station Road, Supaul, Bihar 852131",
+    "source": "https://www.openstreetmap.org/node/1772769366"
+  },
+  {
+    "name": "Nirmali Railway Station",
+    "shortName": "Nirmali Station",
+    "category": "Transport",
+    "latitude": 26.3056272,
+    "longitude": 86.5745537,
+    "osmType": "way",
+    "osmId": 170015103,
+    "displayName": "Nirmali Railway Station, Nirmali, Supaul, Bihar, India",
+    "source": "https://www.openstreetmap.org/way/170015103"
+  }
+]
